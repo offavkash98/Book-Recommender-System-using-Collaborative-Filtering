@@ -1,0 +1,11 @@
+artifacts_config:
+  artifacts_dir: artifacts
+
+data_ingestion_config:
+  dataset_download_url: https://github.com/offavkash98/Book-Recommender-System-using-Collaborative-Filtering/blob/main/books_data.zip
+  dataset_dir: dataset
+  ingested_dir: ingested_data
+  raw_data_dir: raw_data
+
+
+
